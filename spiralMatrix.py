@@ -8,7 +8,7 @@ matrix = [
     [13,14,15]
 ]
 
-# solution is going to be -> [1, 2, 3, 6, 9, 12, 15, 14, 13, 10, 7, 4, 5, 8, 11]
+# solution goal is going to be -> [1, 2, 3, 6, 9, 12, 15, 14, 13, 10, 7, 4, 5, 8, 11]
 
 solution = []
 
